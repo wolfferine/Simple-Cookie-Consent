@@ -1,7 +1,7 @@
-# Simple-Cookie-Consent
+# Simple Cookie Consent v1
 A simple cookie consent popup for a website
 
-### **Explanation of the code:**
+### **Explanation of the JS code:**
 
 - **Immediately Invoked Function Expression (IIFE):** The entire code is wrapped in `(function() { ... })();`. This creates a private scope, preventing variables from polluting the global namespace.
 
